@@ -14,6 +14,7 @@
 		81D7D8181D5B46E3004FC163 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81D7D8171D5B46E3004FC163 /* Assets.xcassets */; };
 		81D7D81B1D5B46E3004FC163 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81D7D8191D5B46E3004FC163 /* LaunchScreen.storyboard */; };
 		81D7D8251D5B471E004FC163 /* CommandPattern.m in Sources */ = {isa = PBXBuildFile; fileRef = 81D7D8241D5B471E004FC163 /* CommandPattern.m */; };
+		81FCF81C1D8B0F5F00A808BB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 81FCF81B1D8B0F5F00A808BB /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		81D7D81C1D5B46E3004FC163 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		81D7D8231D5B470C004FC163 /* CommandPattern.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CommandPattern.h; sourceTree = "<group>"; };
 		81D7D8241D5B471E004FC163 /* CommandPattern.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CommandPattern.m; sourceTree = "<group>"; };
+		81FCF81B1D8B0F5F00A808BB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		81D7D7FF1D5B46E3004FC163 = {
 			isa = PBXGroup;
 			children = (
+				81FCF81B1D8B0F5F00A808BB /* LICENSE */,
 				81D7D80A1D5B46E3004FC163 /* NSInvocationExample */,
 				81D7D8091D5B46E3004FC163 /* Products */,
 			);
@@ -151,6 +154,7 @@
 			files = (
 				81D7D81B1D5B46E3004FC163 /* LaunchScreen.storyboard in Resources */,
 				81D7D8181D5B46E3004FC163 /* Assets.xcassets in Resources */,
+				81FCF81C1D8B0F5F00A808BB /* LICENSE in Resources */,
 				81D7D8161D5B46E3004FC163 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -316,6 +320,7 @@
 				81D7D8211D5B46E3004FC163 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
